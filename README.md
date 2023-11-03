@@ -3,4 +3,4 @@
 Durante el transcurso del sprint 1 hemos aprendido a establecer una configuración de seguridad siguiendo las pautas descritas por USG, para después auditar nuestro sistema y comprobar que es efectivamente seguro.
 
 ## Sprint 2
-
+En el Sprint 2 hemos utilizado Duplicati para aprender a gestionar adecuadamente nuestras copias de seguridad y a como recuperarlas. De esta forma, hemos sido capaces de mantener seguros archivos que no queremos perder.
