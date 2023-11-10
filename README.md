@@ -4,3 +4,6 @@ Durante el transcurso del sprint 1 hemos aprendido a establecer una configuraci√
 
 ## Sprint 2
 En el Sprint 2 hemos utilizado Duplicati para aprender a gestionar adecuadamente nuestras copias de seguridad y a como recuperarlas. De esta forma, hemos sido capaces de mantener seguros archivos que no queremos perder.
+
+## Sprint 3
+En este sprint hemos aprendido a utilizar una metodolog√≠a hardening para mejorar la seguridad de nuestro servidor Apache.
