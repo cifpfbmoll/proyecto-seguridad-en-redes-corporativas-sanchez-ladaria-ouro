@@ -7,3 +7,7 @@ En el Sprint 2 hemos utilizado Duplicati para aprender a gestionar adecuadamente
 
 ## Sprint 3
 En este sprint hemos aprendido a utilizar una metodología hardening para mejorar la seguridad de nuestro servidor Apache.
+
+## Sprint 4
+Instalamos el servidor ssh configurando algunos parámetros para mejorar las conexiones remotas con nuestro servidor Apache.
+Además habilitamos la autenticación en dos pasos.
